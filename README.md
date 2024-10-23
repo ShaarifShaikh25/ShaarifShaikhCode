@@ -1,3 +1,4 @@
 # ShaarifShaikhCode
 This is my first Gits Repository
-Author Shaarif Shaikh
+<br>
+Author-Shaarif Shaikh
